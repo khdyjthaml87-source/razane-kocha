@@ -1,5 +1,5 @@
 <h1 align="center"> Hi , There </h1> 
-<h3 align="center">An Enthusiastic ML and Web Developer from India</h3>
+<h3 align="center">A Web Developer from ALGERIA</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8151F7&width=435&lines=I+am+a+Web+Developer;Exploring+AI+and+ML;Improving+New+Skills" alt="Typing SVG" /></a>
 <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 
@@ -7,13 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vivek43862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivek43862" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vivek-vardhan-23682521b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-vardhan-23682521b/" height="30" width="40" /></a>
-<a href="https://kaggle.com/vivekvardhan2803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vivekvardhan2803" height="30" width="40" /></a>
-<a href="https://instagram.com/vivek_43862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_43862" height="30" width="40" /></a>
-<a href="https://medium.com/@vivekvardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vivekvardhan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vivekvardhan4381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivekvardhan4381" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vivekvardhan43862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekvardhan43862" height="30" width="40" /></a>
+<a href="https://twitter.com/vivek43862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivek43862" height="30" width="40" /></a>  
 </p>
 
  <h3 align="left">Languages and Tools:</h3>

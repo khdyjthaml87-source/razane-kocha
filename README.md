@@ -1,13 +1,7 @@
-<style>
-.ggg { border-raduis: 100 px }
-</style>
-
-
-
 <h1 align="center"> Hi , There </h1> 
 <h3 align="center">A Web Developer from ALGERIA</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8151F7&width=435&lines=I+am+a+Web+Developer;Exploring+AI+and+ML;Improving+New+Skills" alt="Typing SVG" /></a>
-<img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" height="500" class="ggg">
+<img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" height="500" style="border-radius:50 px>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekvardhan2810&label=Profile%20views&color=0e75b6&style=flat" alt="vivekvardhan2810" /> </p>
 
